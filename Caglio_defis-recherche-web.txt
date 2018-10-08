@@ -59,8 +59,13 @@
 - Qu'est-ce que le load balancing ?
 - Qu’est-ce que l’Open Source ?
 - Qu’est-ce que le Bug Bounty ?
+
 - Qu'est-ce qu'une adresse IP v4 ?
+  Caglio-> une adresse réseaux ecrit en décimale.
+
 - Pourquoi parle-t-on aussi d'adresse IP v6 ?
+  Caglio-> les ip v4 sont epuisés on passe à une nouvelle version expriment en hexadécimal permetant une plus grande palage d'adresse/
+
 - Combien coûte un serveur pour héberger mon site perso ?
 - Qu’est-ce que le Cowboy coding ?
 - Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
