@@ -41,7 +41,7 @@
 - Qui est Linus Torvalds ?
   Caglio-> 
   Créateur du noyeau linux
-  ![Linus Torval](https://fr.wikipedia.org/wiki/Linus_Torvalds#/media/File:Linus_Torvalds.jpeg)
+![Linus Torval](https://fr.wikipedia.org/wiki/Linus_Torvalds#/media/File:Linus_Torvalds.jpeg)
 
 - Quels sont ses plus grands développements ?
 - Combien coûte un nom de domaine ?
