@@ -29,7 +29,9 @@
 - Quelles sont les différences entre le Http et le Https ?
 
 - Qui est Richard Stallman ?
-  Caglio-> Gourou du logiciel libre, instigateur du projet gnu
+  Caglio-> 
+  Gourou du logiciel libre, instigateur du projet gnu
+![Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman#/media/File:Richard_Stallman_-_F%C3%AAte_de_l%27Humanit%C3%A9_2014_-_010.jpg)
 
 - Comment fonctionnent les bang de Duck Duck Go ?
 
@@ -44,6 +46,9 @@
 ![Linus Torval](https://fr.wikipedia.org/wiki/Linus_Torvalds#/media/File:Linus_Torvalds.jpeg)
 
 - Quels sont ses plus grands développements ?
+  Caglio->
+  Le noyeau linux et le super serialisateur de code git
+
 - Combien coûte un nom de domaine ?
 - Quels sont les différents services d'emailing disponibles ?
 - Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
