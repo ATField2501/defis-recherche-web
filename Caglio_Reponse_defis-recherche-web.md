@@ -35,7 +35,7 @@ ATField2501
 - Qui est Richard Stallman ?
   Caglio-> 
   Gourou du logiciel libre, instigateur du projet gnu
-![Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman#/media/File:Richard_Stallman_-_F%C3%AAte_de_l%27Humanit%C3%A9_2014_-_010.jpg)
+![Richard Stallman](https://pbs.twimg.com/profile_images/561116211258220544/FlICmGnj_400x400.jpeg)
 
 - Comment fonctionnent les bang de Duck Duck Go ?
 
