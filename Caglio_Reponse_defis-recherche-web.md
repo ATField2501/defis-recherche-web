@@ -24,7 +24,7 @@ ATField2501
 - Qui est Steve Wozniak ?
   Caglio-> 
 Le concepteur du tout premier mac. Electronicien de génie ayant travaillé pour apple.
-![Steeve_Wozniak](https://applesencia.com/files/2014/12/Steve-Wozniak.jpg)
+![Steeve_Wozniak](https://www.wobi.com/wbf-lima/wp-content/uploads/2018/01/Steve-Wozniak-big.jpg)
 
 - D'où vient l'expression "bug informatique" 
 ?
