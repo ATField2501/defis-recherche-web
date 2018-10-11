@@ -68,7 +68,10 @@ ATField2501
 
 - Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
 - Qu’est-ce que Agile Manifesto ?
+
 - Trouvez un screenshot de la première version de Facebook
+  Caglio->
+![facebook_2004](https://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg)
 - Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 - Qu'est-ce que le load balancing ?
 - Qu’est-ce que l’Open Source ?
