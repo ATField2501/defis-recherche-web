@@ -71,7 +71,7 @@ ATField2501
 
 - Trouvez un screenshot de la première version de Facebook
   Caglio->
-![facebook_2004](https://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg)
+![facebook_2004](https://timedotcom.files.wordpress.com/2014/03/facebook-original-profile-2004.jpg?quality=85&w=490)
 - Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 - Qu'est-ce que le load balancing ?
 - Qu’est-ce que l’Open Source ?
