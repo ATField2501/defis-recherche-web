@@ -47,7 +47,7 @@ ATField2501
 - Qui est Linus Torvalds ?
   Caglio-> 
   Créateur du noyeau linux
-![Linus Torval](https://fr.wikipedia.org/wiki/Linus_Torvalds#/media/File:Linus_Torvalds.jpeg)
+![Linus Torval](https://avatars1.githubusercontent.com/u/1024025?s=400&v=4)
 
 - Quels sont ses plus grands développements ?
   Caglio->
