@@ -62,8 +62,12 @@ Le concepteur du tout premier mac. Electronicien de génie ayant travaillé pour
 - Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 
 - Quelle est votre adress IP actuelle ?
+  Caglio->
+  Quelque part entre 0 et 255.255.255.255  ;)
 
 - Et celle de votre smartphone ?
+  Caglio->
+  Idem
 
 - Qu’est-ce que le développement en cycle V ?
 
@@ -120,8 +124,12 @@ Le concepteur du tout premier mac. Electronicien de génie ayant travaillé pour
 - Qu’est-ce qu’une attaque DDoS ?
 
 - Quelles est l'adresse MAC de votre ordinateur ?
+  Caglio->
+  ATTENTION: Tous comme pour les ip si vous répondez à cette question, vous prouvez que vous savez trouvez celle-ci mais dans le même temps que vous n'avez pas saisis les enjeus de la sécurité en informatique.
 
 - Et de votre smartphone ?
+  Caglio->
+  J'attend la question sur les numéros de comptes... hum.
 
 - Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
 
